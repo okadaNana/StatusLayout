@@ -7,6 +7,11 @@ A custom layout to display four layout depends on situation. These four layout a
 * Content Layout
 * Error Layout
 
+## Features
+
+* Switch different layout by only one line code
+* Use ViewStub to lazy load layout
+
 ## Screenshot
 
 ![](./image/statuslayout.gif)
